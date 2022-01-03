@@ -4817,11 +4817,11 @@ xeon.sendMessage(from, vid, video, {quoted: mek})
 break
 case 'writelist':
   reply(`Example ${prefix}write tes
-  🌿 ${prefix}write Tio
-  🌿 ${prefix}folioright Tio
-  🌿 ${prefix}folioleft Tio
-  🌿 ${prefix}writedown Tio
-  🌿 ${prefix}writeleft Tio`)
+  🌿 ${prefix}write Hanz
+  🌿 ${prefix}folioright Hanz
+  🌿 ${prefix}folioleft Hanz
+  🌿 ${prefix}writedown Hanz
+  🌿 ${prefix}writeleft Hanz`)
   break
 case 'folioleft':
 if (!c) return reply('Where is the text bro??')
